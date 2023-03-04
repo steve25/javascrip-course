@@ -1,3 +1,20 @@
-h1 {
-    color: red;
+body {
+  padding: 30px;
+  background: #FEFBE9;
+  text-align: center;
+}
+
+div {
+  display: inline;
+  font-size: 20px;
+  font-weight: bold;
+  margin-right: 15px;
+  padding: 5px 15px;
+  border-radius: 10px;
+  border: 3px solid black;
+  background: yellow;
+}
+
+.hidden {
+  display: none;
 }
